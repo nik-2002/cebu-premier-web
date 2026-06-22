@@ -1,0 +1,10 @@
+<svg width="360" height="96" viewBox="0 0 360 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="96" rx="16" fill="#12355B"/>
+  <path d="M45 67V37L73 20L101 37V67H84V49H62V67H45Z" fill="#F7F2E8"/>
+  <path d="M55 39L73 28L91 39" stroke="#D69B2D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M121 35H155C164 35 170 41 170 49C170 56 166 61 160 63L173 80H158L147 65H135V80H121V35ZM135 47V54H153C155 54 157 53 157 50C157 48 155 47 153 47H135Z" fill="#F7F2E8"/>
+  <path d="M180 35H218V47H194V52H216V63H194V68H219V80H180V35Z" fill="#F7F2E8"/>
+  <path d="M226 80L246 35H260L280 80H265L262 72H243L240 80H226ZM247 61H258L253 48L247 61Z" fill="#F7F2E8"/>
+  <path d="M287 35H301V68H324V80H287V35Z" fill="#F7F2E8"/>
+  <text x="121" y="24" fill="#D69B2D" font-size="12" font-family="Arial, sans-serif" font-weight="700" letter-spacing="2">SUPREME REAL ESTATE</text>
+</svg>

@@ -1,0 +1,13 @@
+:root {
+  --color-ocean: #12355b;
+  --color-pine: #2f6f5e;
+  --color-gold: #d69b2d;
+  --color-clay: #bf3f3f;
+  --color-mist: #eef6f3;
+  --color-paper: #ffffff;
+  --color-ink: #172033;
+  --color-muted: #667085;
+  --color-border: #d8e2df;
+  --radius-card: 8px;
+  --max-page: 1180px;
+}
