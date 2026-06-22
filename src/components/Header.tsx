@@ -15,7 +15,7 @@ export function Header() {
 
   return (
     <>
-      <header className="sticky top-0 z-50 border-b border-white/20 bg-white/92 shadow-sm backdrop-blur">
+      <header className="sticky top-0 z-50 border-b border-slate-200 bg-white shadow-sm">
         <div className="page-shell flex min-h-20 items-center justify-between gap-4">
           <Link href="/" className="flex items-center gap-3" aria-label="Cebu Premier home">
             <Image
