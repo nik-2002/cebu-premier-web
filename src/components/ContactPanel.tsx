@@ -5,8 +5,8 @@ export function ContactPanel() {
   const mapSrc = `https://www.google.com/maps?q=${encodeURIComponent(companyProfile.mapQuery)}&output=embed`;
 
   return (
-    <section className="page-shell grid gap-8 rounded-[8px] bg-ocean p-5 text-white shadow-soft md:p-8 lg:grid-cols-[0.9fr_1.1fr]">
-      <div>
+    <section className="page-shell grid gap-8 rounded-[8px] bg-ocean p-5 text-white shadow-soft md:p-8 lg:grid-cols-[minmax(300px,0.72fr)_minmax(0,1.58fr)]">
+      <div className="lg:py-2">
         <p className="text-sm font-bold uppercase tracking-[0.16em] text-gold">Get in touch</p>
         <h2 className="mt-3 text-3xl font-bold leading-tight md:text-4xl">
           Ask about a listing, selling a property, or document support.
@@ -33,13 +33,13 @@ export function ContactPanel() {
           <MessageSquare size={18} /> Send us a message
         </a>
       </div>
-      <div className="overflow-hidden rounded-[8px] bg-white">
+      <div className="min-h-[360px] overflow-hidden rounded-[8px] bg-white md:min-h-[460px] lg:min-h-[520px]">
         <iframe
           title="Cebu Premier Real Estate map"
           src={mapSrc}
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
-          className="map-frame"
+          className="h-full min-h-[inherit] w-full border-0"
         />
       </div>
     </section>
