@@ -7,7 +7,7 @@ export type MagazineIssue = {
 
 export const magazineIssues: MagazineIssue[] = [
   {
-    title: "Real Supreme Property Preview",
+    title: "Cebu Premier Property Preview",
     issue: "Pilot Issue 2026",
     theme: "South Cebu lots, buyer checklists, and documentation basics",
     image:

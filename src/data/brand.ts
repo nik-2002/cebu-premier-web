@@ -1,6 +1,6 @@
 export const brand = {
-  name: "Real Supreme Real Estate",
-  shortName: "Real Supreme",
+  name: "Cebu Premier Real Estate",
+  shortName: "Cebu Premier",
   tagline: "Lots, homes, and property services handled with local care.",
   palette: {
     ocean: "#12355B",

@@ -53,7 +53,7 @@ export const listings: Listing[] = [
     tags: ["Clean title", "Mountain view", "Private road"],
     summary: "Elevated residential lot with open views and access to Cebu City lifestyle corridors.",
     description:
-      "A quiet residential lot suited for a custom family home, weekend residence, or long-term hold. The prototype listing shows the kind of title, access, and utility notes Real Supreme can surface before a buyer schedules a site visit.",
+      "A quiet residential lot suited for a custom family home, weekend residence, or long-term hold. The prototype listing shows the kind of title, access, and utility notes Cebu Premier can surface before a buyer schedules a site visit.",
     highlights: ["420 sqm lot area", "Road access noted", "Good fit for end-use buyers"]
   },
   {
@@ -154,7 +154,7 @@ export const listings: Listing[] = [
     tags: ["Ready for viewing", "Family home", "South Cebu"],
     summary: "Move-in oriented house and lot option for families looking south of Cebu City.",
     description:
-      "A practical house-and-lot sample to show how Real Supreme can list non-land assets while keeping lot size, floor area, and viewing readiness clear.",
+      "A practical house-and-lot sample to show how Cebu Premier can list non-land assets while keeping lot size, floor area, and viewing readiness clear.",
     highlights: ["3 bedrooms", "2 bathrooms", "96 sqm estimated floor area"]
   },
   {

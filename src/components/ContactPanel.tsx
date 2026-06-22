@@ -27,7 +27,7 @@ export function ContactPanel() {
           </span>
         </div>
         <a
-          href={`mailto:${companyProfile.email}?subject=Real%20Supreme%20property%20inquiry`}
+          href={`mailto:${companyProfile.email}?subject=Cebu%20Premier%20property%20inquiry`}
           className="focus-ring mt-7 inline-flex items-center gap-2 rounded-full bg-gold px-6 py-3 font-extrabold text-ocean transition hover:-translate-y-0.5 hover:bg-white"
         >
           <MessageSquare size={18} /> Send us a message
@@ -35,7 +35,7 @@ export function ContactPanel() {
       </div>
       <div className="overflow-hidden rounded-[8px] bg-white">
         <iframe
-          title="Real Supreme Real Estate map"
+          title="Cebu Premier Real Estate map"
           src={mapSrc}
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"

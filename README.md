@@ -1,6 +1,6 @@
-# Real Supreme Real Estate Website Prototype
+# Cebu Premier Real Estate Website Prototype
 
-Static Next.js prototype for Real Supreme Real Estate. Content is stored in repo files for easy editing while the project is still pre-backend.
+Static Next.js prototype for Cebu Premier Real Estate. Content is stored in repo files for easy editing while the project is still pre-backend.
 
 ## Scripts
 

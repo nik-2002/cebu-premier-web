@@ -21,11 +21,11 @@ export const navItems = [
 ];
 
 export const companyProfile = {
-  legalName: "Real Supreme Real Estate",
+  legalName: "Cebu Premier Real Estate",
   location: "Cebu, Philippines",
   phone: "+63 917 000 0000",
   landline: "(032) 000-0000",
-  email: "hello@realsupreme.example",
+  email: "hello@cebupremier.example",
   address: "Cebu City, Cebu, Philippines",
   facebook: "https://www.facebook.com/",
   officeHours: "Monday to Saturday, 9:00 AM to 6:00 PM",

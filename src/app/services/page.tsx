@@ -5,7 +5,7 @@ import { services } from "@/data/site";
 
 export const metadata: Metadata = {
   title: "Services",
-  description: "Real Supreme buyer, seller, documentation, and project matching services."
+  description: "Cebu Premier buyer, seller, documentation, and project matching services."
 };
 
 export default function ServicesPage() {

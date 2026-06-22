@@ -17,10 +17,10 @@ export function Header() {
     <>
       <header className="sticky top-0 z-50 border-b border-white/20 bg-white/92 shadow-sm backdrop-blur">
         <div className="page-shell flex min-h-20 items-center justify-between gap-4">
-          <Link href="/" className="flex items-center gap-3" aria-label="Real Supreme home">
+          <Link href="/" className="flex items-center gap-3" aria-label="Cebu Premier home">
             <Image
-              src="/assets/brand/real-supreme-logo.svg"
-              alt="Real Supreme Real Estate"
+              src="/assets/brand/cebu-premier-logo.svg"
+              alt="Cebu Premier Real Estate"
               width={180}
               height={48}
               priority

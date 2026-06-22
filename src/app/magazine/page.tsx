@@ -6,7 +6,7 @@ import { magazineIssues } from "@/data/magazines";
 
 export const metadata: Metadata = {
   title: "Magazines",
-  description: "Magazine concept page for Real Supreme property guides and previews."
+  description: "Magazine concept page for Cebu Premier property guides and previews."
 };
 
 export default function MagazinePage() {

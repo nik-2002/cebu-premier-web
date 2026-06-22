@@ -6,7 +6,7 @@ import { blogPosts } from "@/data/blogs";
 
 export const metadata: Metadata = {
   title: "Blogs / News",
-  description: "Sample real estate blog and news content for the Real Supreme prototype."
+  description: "Sample real estate blog and news content for the Cebu Premier prototype."
 };
 
 export default function BlogsPage() {

@@ -14,7 +14,7 @@ export type Project = {
 export const projects: Project[] = [
   {
     slug: "supreme-south-estates",
-    name: "Supreme South Estates",
+    name: "Cebu Premier South Estates",
     developer: "Partner Developer",
     location: "Minglanilla, Cebu",
     status: "Open lots",

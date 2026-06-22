@@ -6,7 +6,7 @@ import { listings } from "@/data/listings";
 
 export const metadata: Metadata = {
   title: "Properties",
-  description: "Browse sample Real Supreme property listings with local static filters."
+  description: "Browse sample Cebu Premier property listings with local static filters."
 };
 
 export default function PropertiesPage() {

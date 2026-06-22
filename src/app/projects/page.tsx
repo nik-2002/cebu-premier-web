@@ -6,7 +6,7 @@ import { projects } from "@/data/projects";
 
 export const metadata: Metadata = {
   title: "Projects",
-  description: "Sample development project previews for Real Supreme Real Estate."
+  description: "Sample development project previews for Cebu Premier Real Estate."
 };
 
 export default function ProjectsPage() {

@@ -6,7 +6,7 @@ import { companyProfile } from "@/data/site";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "Contact Real Supreme Real Estate for property, selling, and documentation inquiries."
+  description: "Contact Cebu Premier Real Estate for property, selling, and documentation inquiries."
 };
 
 export default function ContactPage() {

@@ -7,7 +7,7 @@ import { values } from "@/data/site";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "About Real Supreme Real Estate and the prototype company story."
+  description: "About Cebu Premier Real Estate and the prototype company story."
 };
 
 export default function AboutPage() {

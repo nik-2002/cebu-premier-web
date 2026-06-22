@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: brand.name,
     description:
-      "Browse sample properties, agent profiles, project previews, and real estate services for Real Supreme Real Estate.",
+      "Browse sample properties, agent profiles, project previews, and real estate services for Cebu Premier Real Estate.",
     type: "website"
   }
 };

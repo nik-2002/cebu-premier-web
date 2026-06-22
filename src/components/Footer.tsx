@@ -9,8 +9,8 @@ export function Footer() {
       <div className="page-shell grid gap-10 py-12 lg:grid-cols-[1.1fr_0.9fr_1fr]">
         <div>
           <Image
-            src="/assets/brand/real-supreme-logo.svg"
-            alt="Real Supreme Real Estate"
+            src="/assets/brand/cebu-premier-logo.svg"
+            alt="Cebu Premier Real Estate"
             width={210}
             height={56}
             className="h-14 w-auto"
@@ -64,7 +64,7 @@ export function Footer() {
       </div>
       <div className="border-t border-white/10 py-5">
         <div className="page-shell flex flex-col justify-between gap-3 text-sm text-white/65 md:flex-row">
-          <p>© 2026 Real Supreme Real Estate. Prototype only.</p>
+          <p>© 2026 Cebu Premier Real Estate. Prototype only.</p>
           <p>No backend, payments, or live auth in this v1 build.</p>
         </div>
       </div>
