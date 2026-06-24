@@ -19,8 +19,8 @@ const config: Config = {
         paper: "var(--color-paper)"
       },
       boxShadow: {
-        soft: "0 18px 48px rgba(18, 53, 91, 0.12)",
-        button: "0 10px 24px rgba(47, 111, 94, 0.24)"
+        soft: "0 18px 48px rgba(44, 47, 118, 0.12)",
+        button: "0 10px 24px rgba(63, 170, 80, 0.24)"
       }
     }
   },

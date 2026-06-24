@@ -8,13 +8,15 @@ export function Footer() {
     <footer className="mt-20 border-t border-slate-200 bg-ocean text-white">
       <div className="page-shell grid gap-10 py-12 lg:grid-cols-[1.1fr_0.9fr_1fr]">
         <div>
-          <Image
-            src="/assets/brand/cebu-premier-logo.svg"
-            alt="Cebu Premier Real Estate"
-            width={210}
-            height={56}
-            className="h-14 w-auto"
-          />
+          <div className="inline-flex rounded-[8px] bg-white px-4 py-3">
+            <Image
+              src="/assets/brand/cebu-premier-logo-full.png"
+              alt="Cebu Premier Real Estate"
+              width={260}
+              height={72}
+              className="h-12 w-auto"
+            />
+          </div>
           <p className="mt-5 max-w-md leading-7 text-white/78">
             A static prototype for a Cebu-based brokerage experience focused on property listings,
             buyer support, seller assistance, and documentation guidance.

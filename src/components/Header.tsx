@@ -19,12 +19,12 @@ export function Header() {
         <div className="page-shell flex min-h-20 items-center justify-between gap-4">
           <Link href="/" className="flex items-center gap-3" aria-label="Cebu Premier home">
             <Image
-              src="/assets/brand/cebu-premier-logo.svg"
+              src="/assets/brand/cebu-premier-logo-full.png"
               alt="Cebu Premier Real Estate"
-              width={180}
-              height={48}
+              width={260}
+              height={72}
               priority
-              className="h-12 w-auto"
+              className="h-11 w-auto sm:h-14"
             />
           </Link>
 
@@ -36,7 +36,7 @@ export function Header() {
                   key={item.href}
                   href={item.href}
                   className={`rounded-full px-4 py-2 text-sm font-bold transition ${
-                    active ? "bg-mist text-pine" : "text-slate-700 hover:bg-slate-100"
+                    active ? "bg-mist text-ocean" : "text-slate-700 hover:bg-slate-100"
                   }`}
                 >
                   {item.label}
